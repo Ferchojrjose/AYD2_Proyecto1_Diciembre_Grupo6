@@ -1,4 +1,4 @@
-# AYD2 Proyecto1 
+# Análisis y Diseño 2 - Proyecto1 
 ### Vacaciones de Diciembre 2023
 
 ### Grupo 6
