@@ -1,4 +1,5 @@
-# AYD2_Proyecto1_Diciembre_Grupo6
+# AYD2 Proyecto1 
+### Vacaciones de Diciembre 2023
 
 ### Grupo 6
 
